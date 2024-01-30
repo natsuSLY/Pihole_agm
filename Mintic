@@ -35,7 +35,7 @@ ff02::3 ip6-allhosts
 
 #=====================================
 # Title: Hosts contributed by anderson gutierrez
-# http://192.168.0.112/admin
+# http://192.168.0.112
 
 0.0.0.0 eu1.clevertap-prod.com
 
